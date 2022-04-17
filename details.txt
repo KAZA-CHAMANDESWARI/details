@@ -1,0 +1,5 @@
+ [{"id":2,"name":"Tai Nghe","iduser":1,"date":"2008-11-11713:23:44"},
+{"id":5,"name":"Ốp lưng", "iduser":1,"date":"2908-11-11713:23:44)
+ "id":4, name": Cường lực, "Iduser":1, date": 2006-11 11T13:23:44"}
+,{"id":5,"name":"Cáp sac","iduser":1,"date":"2008-11-11T13:23:44"}
+,{"id":6,"name": "ok", "iduser":1,"date":"2008-11-11713:23:44"},{"id":7,"name":"xdff","iduser":2,"date":"2008 11-11T13:23:44"},{"id":8,"name":"fd","iduser":2,"date":"2008-11-11T13:23:44"),{"id":9,"name": "c","iduser":2,"date":"2006-11-11T13:23:44"},{"id":10,"name":"h","iduser":2,"date":"2020-10 07700:00:00"},{"id":11,"name": "f","iduser":2,"date":"2020-10-16T00:00:00"),("id": 12, "name": "fggf","iduser":3,"date":"2020-10-15T00:00:00"), ["id":13,"name":"fvfd","iduser":3,"date":"2020 10-02T00:00:00"},{"id":14,"name":"gcg", "iduser":2,"date":"2020-10-08T00:00:00"},{"id":15,"name": "dsds","iduser":2,"date":"2020-10-16T00:00:00"), ("id":16,"name":"gfgf","iduser":3,"date":"2020-10-02T00:00:00"),{"id":17,"name":"yyt", "iduser":4,"date":"2020-10-15T00:00:00"}]
